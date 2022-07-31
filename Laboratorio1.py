@@ -5,6 +5,7 @@ class solucionnes:
     def __init__(self):
         self.c_1= int (input("Ingresar la priemra concentracion:"))
         self.c_2= int (input("Ingresar la segunda concentracion:"))
+        
         self.v_1= int (input("Ingresar el pirmer volumen:")) 
         self.v_2= int (input("Ingresar el segundo volumen:")) 
  #El dato que se calculara sera el que al moemento de ingresar los valores sea meno o igual a 0   
